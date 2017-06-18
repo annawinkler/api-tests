@@ -1,2 +1,3 @@
 # api-tests
-Scripts to test APIs
+
+Scripts to test APIs with curl and jq.
